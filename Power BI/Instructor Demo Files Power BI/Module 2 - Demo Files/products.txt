@@ -1,0 +1,27 @@
+ID	Product	Category
+1	Coffee	Beverages
+2	Tea	Beverages
+3	Green Tea	Beverages
+4	Lemon & Ginger Tea	Beverages
+5	Apple Juice	Beverages
+6	Peach Juice	Beverages
+7	Tomato Juice	Beverages
+8	Orange Juice	Beverages
+9	Still Water	Beverages
+10	Sparkling Water	Beverages
+11	Blueberry Muffin	Pastries
+12	Chocolate Chip Muffin	Pastries
+13	Butter Croissant	Pastries
+14	Almond Croissant	Pastries
+15	Chocolate Twist	Pastries
+16	Chicken Fajita Wrap	Food
+17	Chicken Salad Sandwich	Food
+18	Cheese & Pickle Sandwich	Food
+19	BLT Sandwich	Food
+20	Tuna Melt Panini	Food
+21	Ham & Cheese Toastie	Food
+22	Fruit Box	Food
+23	Porridge	Food
+24	Toast	Food
+25	Granola Bar	Food
+26	Yoghurt	Food
